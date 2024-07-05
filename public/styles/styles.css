@@ -64,8 +64,8 @@ header {
 footer {
     text-align: center;
     padding: 5px;
-    background-color: #1e1e1e; /* Dark gray background color */
-    color: #fff; /* White text color */
+    background-color: #1e1e1e;
+    color: #fff;
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -74,7 +74,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 12px; /* Increase font size for better readability */
+    font-size: 12px;
 }
 
 .container {
