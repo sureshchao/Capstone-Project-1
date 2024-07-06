@@ -44,6 +44,8 @@ li {
     margin-bottom: 10px;
 }
 .contact-info {
+    display: flex;
+    flex-direction: column;
     background: #eee;
     padding: 10px;
     margin-bottom: 10px;
@@ -64,6 +66,8 @@ li {
 }
 header {
     text-align: center;
+    display: flex;
+    flex-direction: column;
 }
 
 footer {
